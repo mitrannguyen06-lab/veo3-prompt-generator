@@ -1,0 +1,14 @@
+{
+  "name": "veo3-prompt-generator",
+  "version": "1.0.0",
+  "description": "VEO 3 Prompt Generator MCP Server",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.2",
+    "express": "^5.1.0",
+    "zod": "^3.25.76"
+  }
+}
